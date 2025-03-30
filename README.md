@@ -1,5 +1,5 @@
-# 🔄 Сoncurrent Gaussian Elimination Algorithm
-An implementation of the concurrent Gaussian elimination algorithm, developed as part of the Concurrency Theory course at AGH University of Science and Technology. This project also applies the theory of traces for thread scheduling in the concurrent Gaussian elimination process.
+# 🔄 Concurrent Gaussian Elimination Algorithm
+An implementation of the concurrent Gaussian elimination algorithm in **C++**, developed as part of the Concurrency Theory course at AGH University of Science and Technology. This project also applies the theory of traces for thread scheduling in the concurrent Gaussian elimination process.
 
 ## 🔢 Task steps:
 For a matrix of size N:
